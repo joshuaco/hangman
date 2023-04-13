@@ -1,3 +1,3 @@
 # Hangman Game!
 
-## This is nodejs game only for terminalStation 5
+## This is a nodejs game only for terminalStation 5
