@@ -1,0 +1,17 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "engine": {
+    "node": "^18"
+  },
+  "type": "module",
+  "main": "index.js",
+  "author": "Joshua",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuaco/hangman.git"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
